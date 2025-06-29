@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1751176927.80844 "main.xdv" "main.pdf" "main" 1751176935.04737 0
-  "main.xdv" 1751176927 64308 230f76a9031ec5b9188e44d154c243bb "xelatex"
+["xdvipdfmx"] 1751194691.10352 "main.xdv" "main.pdf" "main" 1751194698.30361 0
+  "main.xdv" 1751194690 64308 59281261083630abc948603765f37864 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1751176926.44494 "e:/Latex/CQFLS-PlaneGeometry/main.tex" "main.xdv" "main" 1751176935.03996 0
-  "Lessons/Basic/三角形五心.aux" 1751176927 6098 e2d42b42736616d9aa10160a235f11cb "xelatex"
+["xelatex"] 1751194689.62352 "e:/Latex/CQFLS-PlaneGeometry/main.tex" "main.xdv" "main" 1751194698.29602 0
+  "Lessons/Basic/三角形五心.aux" 1751194690 6098 e2d42b42736616d9aa10160a235f11cb "xelatex"
   "Lessons/Basic/三角形五心.tex" 1751176925 8238 566d43175c77a77896430bf314786709 ""
   "c:/Windows/Fonts/msyh.ttc" 1739071571 19704352 1e10e74402e59d54499af795caf0b135 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1750399056 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -182,7 +182,7 @@
   "c:/texlive/2025/texmf-dist/web2c/texmf.cnf" 1750397020 42213 4e2ca030e8e2640502016e9e45868dcb ""
   "c:/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1750406307 5891394 164bede4a033a83d4bffac3001ee1c10 ""
   "c:/texlive/2025/texmf.cnf" 1750406185 713 e69b156964470283e0530f5060668171 ""
-  "e:/Latex/CQFLS-PlaneGeometry/main.tex" 1751171988 3645 541ae8222d866514f9e132f061ef790f ""
+  "e:/Latex/CQFLS-PlaneGeometry/main.tex" 1751194687 3645 541ae8222d866514f9e132f061ef790f ""
   "figures/三角形五心/垂心.png" 1751174693 275428 4f2398a44ad0a13f19aa4667cabc9ef2 ""
   "figures/三角形五心/垂心的对称性质.png" 1751175366 341519 0445f06c5f3a82f8e770a89f7ffc1463 ""
   "figures/三角形五心/垂足三角形.png" 1751174829 305693 a2f9995a23ed4907e0a3c7a41bc17f02 ""
@@ -193,9 +193,9 @@
   "figures/三角形五心/旁心三角形.png" 1751176502 299574 02bc5bfae872592ea63ef08820816a58 ""
   "figures/三角形五心/外心.png" 1751174429 289963 ec558c43179c3957c1cde682a831a3e2 ""
   "figures/重心.png" 1751167406 318385 f3ae671ca48c097e2b95b2d5f3e40119 ""
-  "main.aux" 1751176927 172 dabdebed2fb998a4342427ea069e09e1 "xelatex"
-  "main.out" 1751176927 815 cec56b6f9dd6bb49950c77730ac442d7 "xelatex"
-  "main.tex" 1751171988 3645 541ae8222d866514f9e132f061ef790f ""
+  "main.aux" 1751194690 172 dabdebed2fb998a4342427ea069e09e1 "xelatex"
+  "main.out" 1751194690 815 cec56b6f9dd6bb49950c77730ac442d7 "xelatex"
+  "main.tex" 1751194687 3645 541ae8222d866514f9e132f061ef790f ""
   (generated)
   "Lessons/Basic/三角形五心.aux"
   "main.aux"

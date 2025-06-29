@@ -6,13 +6,24 @@
 
 
 \section{圆幂}
+\begin{definition}[圆幂]
+    定义$P$点到圆$O$的圆幂为
+    $$\text{Pow}_O(P) = OP^2 - R^2,$$
+    其中$R$为圆$O$的半径，$OP$为点$P$到圆心的距离。
+\end{definition}
+
+
 % 圆幂定理
 \begin{theorem}[圆幂定理]
     假设平面内有一半径为R的圆O，P为平面内任意一点。
     
-    从P作圆O的任一割线PAB，从点P起到与圆周相交为止的两线段之积$PA\cdot PB$，称作点P到圆O的圆幂。
-    
-    P到圆O的圆幂等于$|OP^2 - R^2|$。
+    (1) $\text{Pow}_O(P)$根据$P$在圆外，圆上或圆内分别取正值、零、负值。
+
+    (2) 若直线$l$经过点$P$，与圆$O$相交于两点$A$和$B$，则
+    $$PA \cdot PB = |\text{Pow}_O(P)|$$
+
+    (3) 若$P$在圆外，$PA$与圆相切于点A，则
+    $$PA^2 = |\text{Pow}_O(P)|$$
 \end{theorem}
 \begin{figure}[H]
     \centering
@@ -23,9 +34,14 @@
     定点到定圆的圆幂是一个定值，与割线的取法无关。
 \end{remark}
 
+
+\begin{theorem}[圆幂逆定理]
+    设 $A, B, C, D$ 是平面上四个不同的点，直线 $AB$ 和 $CD$ 相交于 $P$。假设 $P$ 或者同时在两条线段 $AB$ 和 $CD$ 内，或者同时在两条线段外。若 $PA \cdot PB = PC \cdot PD$，则 $A, B, C, D$ 四点共圆。
+\end{theorem}
+
 %-------------------------------------------------------------
 \newpage 
-\subsection{根轴}
+\section{根轴}
 \begin{theorem}[根轴]
     对于两已知圆有等幂点的轨迹，为一条垂直于连心线的直线。
 \end{theorem}
@@ -66,9 +82,19 @@
 \end{figure}
 
 
+\begin{exercise}
+    设 $P$ 在 $\triangle ABC$ 的内部，假设 $BC$ 与 $\triangle ABP$ 和 $\triangle ACP$ 的外接圆均相切。证明：射线 $AP$ 平分 $\overline{BC}$。
+\end{exercise}
+
+\begin{exercise}
+    用根轴证明三角形的垂心存在，也就是说，若 $AD, BE, CF$ 是 $\triangle ABC$ 的三个高，证明它们共点。
+\end{exercise}
+
+
+
 %-------------------------------------------------------------
 \newpage 
-\subsection{根心}
+\section{根心}
 \begin{theorem}[根心定理]
     平面内的三个定圆，他们两两的根轴或相交于一点，或互相平行。
 \end{theorem}
