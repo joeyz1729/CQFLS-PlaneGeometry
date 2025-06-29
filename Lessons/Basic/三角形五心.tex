@@ -18,14 +18,12 @@
 
     (2) 平面内一点是三角形外心的充分必要条件为：该点到三顶点的距离相等。
 
-    (3) 平面内一点O是三角形$\triangle ABC$外心的充分必要条件为：
-    $$\angle BOC = 2A,\quad \angle COA = 2B,\quad \angle AOB =2\angle C.$$
-
-    (4) $BC=2R\sin A,\quad AC =2R\sin B,\quad AC=2R\sin C.$
-
-    (5) 锐角三角形的外心在形内，直角三角形的外心为斜边中点，钝角三角形的外心在形外。
+    (3) 锐角三角形的外心在形内，直角三角形的外心为斜边中点，钝角三角形的外心在形外。
 \end{proposition}
 
+\begin{exercise}
+    用$\triangle ABC$外接圆半径长$R$以及三顶角的正弦函数表示所有线段长。
+\end{exercise}
 
 
 %--------------------------------------------------------------
@@ -53,18 +51,20 @@
     $$\angle BIC = 90^\circ +\frac{1}{2}A,\quad \angle AIC = 90^\circ +\frac{1}{2}B,
     \quad \angle AIB =90^\circ +\frac{1}{2}C.$$
 
-    (4) 设D、E、F分别为内切圆I在BC、CA、AB上的切点，那么
+\end{proposition}
+
+
+\begin{proposition}[切线长性质]
+    设D、E、F分别为内切圆I在BC、CA、AB上的切点，则
     $$
-    ID \perp BC,\quad 
-    IE \perp AC, \quad 
-    IF \perp AB.$$
-    切线长度可由三边边长表示：
-    $$
-    BF=BD=\frac{1}{2}(a+c - b),\quad 
-    CD=CE=\frac{1}{2}(a+b - c),\quad 
-    AE=AF=\frac{1}{2}(b+c - a).
+    \begin{aligned}
+    AE&=AF=s-a = \frac{1}{2}(b+c - a),\\
+    BF&=BD=s - b =\frac{1}{2}(a+c - b),\\
+    CD&=CE=s - c= \frac{1}{2}(a+b - c).
+    \end{aligned}
     $$
 \end{proposition}
+
 
 
 \newpage 
@@ -76,12 +76,24 @@
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\linewidth]{figures/三角形五心/鸡爪定理.png}
+    \includegraphics[width=0.8\linewidth]{figures/三角形五心/鸡爪定理.png}
     \caption{鸡爪定理}
 \end{figure}
 
-
-
+\begin{exercise}
+    计算$\angle IBD, \angle ICD, \angle BID, \angle CID$。
+\end{exercise}
+\begin{exercise}
+    表示$\triangle ABC$内切圆半径长。
+\end{exercise}
+\begin{exercise}
+    设$\triangle DEF$为切点三角形，表示$\triangle DEF$的三边长和三顶角大小。
+\end{exercise}
+% \begin{figure}[H]
+%     \centering
+%     \includegraphics[width=0.7\linewidth]{figures/三角形五心/切点三角形.png}
+%     \caption{切点三角形}
+% \end{figure}
 
 
 %--------------------------------------------------------------
@@ -108,12 +120,9 @@
     BH=2R\cdot |\cos B|,\quad
     CH=2R\cdot |\cos C|.$$
 
-    (3) 垂心H为垂足$\triangle DEF$的内心。
+    (3) 锐角三角形的垂心在形内，直角三角形的垂心在直角顶点，钝角三角形的垂心在形外。
 
-
-    (4) 锐角三角形的垂心在形内，直角三角形的垂心在直角顶点，钝角三角形的垂心在形外。
-
-    (5) 若H为三角形$\triangle ABC$的垂心，则A、B、C、H四点中任意一点是其余三点构成的三角形的垂心，称A、B、C、H为垂心组。
+    (4) 若H为三角形$\triangle ABC$的垂心，则A、B、C、H四点中任意一点是其余三点构成的三角形的垂心，称A、B、C、H为垂心组。
 \end{proposition}
 
 
@@ -132,6 +141,21 @@
     \includegraphics[width=0.8\linewidth]{figures/三角形五心/垂足三角形.png}
     \caption{垂足三角形}
 \end{figure}
+
+\begin{exercise}
+    用$\triangle ABC$的三边边长，以及三顶角的三角函数表示下面的量。
+
+    (1) 顶点与垂足连线段的长度，如$BD, CD$。
+
+    (2) 垂心$H$到三边的距离，如$HD$。
+
+    (3) 垂心$H$到三顶点的距离，如$HA$。
+
+    (4) 两垂足连线段的长度，如$EF$。
+
+    (5) 计算图中所有角的度数，如$\angle BAH, \angle AHF, \angle AEF, \angle FHE$。  
+\end{exercise}
+
 
 
 
@@ -193,10 +217,16 @@
     $$S_{\triangle ABG} = S_{\triangle BCG}=S_{\triangle CAG}.$$
 
     (3) $\triangle ABC \sim \triangle DEF$，且相似比为2.
-
-    (4) $2AD^2=AB^2+AC^2-\frac{1}{2}BC^2.$
 \end{proposition}
-%-----------------------------------------------------------------------------------------
+%-------------------------------------------------------------
+\begin{exercise}
+    证明：$2AD^2=AB^2+AC^2-\frac{1}{2}BC^2.$
+\end{exercise}
+\begin{exercise}
+    证明：在平面直角坐标系中，重心$G$的坐标可以表示为三顶点坐标的算术平均值。
+\end{exercise}
+
+
 \newpage
 \section{旁心}
 \begin{definition}[旁心]
@@ -219,19 +249,19 @@
 
     (3) $\angle I_ABC = 90^\circ - \frac{1}{2}B, \angle I_ACB = 90^\circ - \frac{1}{2}C, \angle BI_AC=90 - \frac{1}{2}A.$
 
-    (4) $\quad IB\perp BI_A, \quad IC\perp CI_A.$，所以$B, I,C,I_A$四点共圆，且圆心为$\overset{\frown}{BC}$的中点。
-
-    (5) 内心I是旁心三角形$I_AI_BI_C$的垂心。
-
-    (6) 设D、E、F分别为内切圆I在BC、CA、AB上的切点，则定点到旁切圆的切线长度可由三边边长表示：
-    $$
-    AE=AF=\frac{1}{2}(a+b+c),\quad
-    BF=BD=\frac{1}{2}(a+b-c),\quad 
-    CD=CE=\frac{1}{2}(a+c - b).
-    $$
+    (4) $IB\perp BI_A, \quad IC\perp CI_A.$
 \end{proposition}
 
-
+\begin{proposition}[切线长性质]
+    设D、E、F分别为旁切圆$I_A$在BC、CA、AB上的切点，则
+    $$
+    \begin{aligned}
+    AE&=AF= s = \frac{1}{2}(a+b+c),\\
+    BF&=BD=s - c =\frac{1}{2}(a+b-c),\\
+    CD&=CE=s - b= \frac{1}{2}(a+c-b).
+    \end{aligned}
+    $$
+\end{proposition}
 
 
 \newpage 
@@ -246,6 +276,12 @@
     \caption{鸡爪定理}
 \end{figure}
 
+\begin{exercise}
+    计算$\angle BIJ, \angle CIJ, \angle IBD, \angle ICD$。
+\end{exercise}
+\begin{exercise}
+    计算$IJ$。
+\end{exercise}
 
 
 \newpage 
