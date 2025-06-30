@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1751272295.45368 "main.xdv" "main.pdf" "main" 1751272296.05478 0
-  "main.xdv" 1751272295 15668 709d2534620620b1bc709a7d73078eab "xelatex"
+["xdvipdfmx"] 1751279208.96669 "main.xdv" "main.pdf" "main" 1751279217.01841 0
+  "main.xdv" 1751279208 20424 e17f52afa196b3e63d5ab97c0145a619 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1751272294.0968 "e:/Latex/CQFLS-PlaneGeometry/main.tex" "main.xdv" "main" 1751272296.04739 0
-  "Lessons/Advanced/位似.aux" 1751272295 2000 0ee275db514c9d104229a45c27558882 "xelatex"
-  "Lessons/Advanced/位似.tex" 1751272292 1403 9cf46a5692ab4dfe5b242516ad557fe6 ""
+["xelatex"] 1751279207.72783 "e:/Latex/CQFLS-PlaneGeometry/main.tex" "main.xdv" "main" 1751279217.01058 0
+  "Exercises/练习3.aux" 1751279208 2854 58a9424df9392a148f0c1e069183953e "xelatex"
+  "Exercises/练习3.tex" 1751279207 5565 0945b282b642a79edcbf5fb14443ade2 ""
   "c:/Windows/Fonts/msyh.ttc" 1739071571 19704352 1e10e74402e59d54499af795caf0b135 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1750399056 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1750406124 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -182,12 +182,24 @@
   "c:/texlive/2025/texmf-dist/web2c/texmf.cnf" 1750397020 42213 4e2ca030e8e2640502016e9e45868dcb ""
   "c:/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1750406307 5891394 164bede4a033a83d4bffac3001ee1c10 ""
   "c:/texlive/2025/texmf.cnf" 1750406185 713 e69b156964470283e0530f5060668171 ""
-  "e:/Latex/CQFLS-PlaneGeometry/main.tex" 1751270608 3772 c2f442c5e8ccc8942bbee834e84c7ea0 ""
-  "main.aux" 1751272295 165 368accfcd33151628c5ceb7fdce9175a "xelatex"
-  "main.out" 1751272295 150 df394d29ce0802f4d404a7239782f7bc "xelatex"
-  "main.tex" 1751270608 3772 c2f442c5e8ccc8942bbee834e84c7ea0 ""
+  "e:/Latex/CQFLS-PlaneGeometry/main.tex" 1751276523 3764 6e2fba199c98227560972a5d3288c2d2 ""
+  "figures/exercises/316.png" 1751276108 331404 dd346196aaae96fbc656a93eeaaf89b3 ""
+  "figures/exercises/317.png" 1751276274 300659 e6cd83e6c0930e21dd9cc0f7c57b7c3d ""
+  "figures/exercises/318.png" 1751276426 266989 dfaf7591dd5c984c5aa063efc7ace3d6 ""
+  "figures/exercises/319.png" 1751276787 321747 58cf3ab9ed2c823ba37ed5c4a5ee7ba0 ""
+  "figures/exercises/320.png" 1751276988 231184 951c7c0ffe47696a0b6db4a267ae5163 ""
+  "figures/exercises/321.png" 1751277363 278460 90538645761541c39d72698adc143d98 ""
+  "figures/exercises/324.png" 1751277620 288250 3fe4568d199ec0ee8be539f883b111d9 ""
+  "figures/exercises/325.png" 1751277737 301997 e256473b2a1f86f0a782ec8c767ef1bb ""
+  "figures/exercises/326.png" 1751277942 215117 34de2b8f20d8e88ae9599a277cf0109c ""
+  "figures/exercises/327.png" 1751278054 292991 387d1e7f9947f992d84c808db9bd27e1 ""
+  "figures/exercises/329.png" 1751278453 317410 2bd468b4c9e43628f929e96bf2799d43 ""
+  "figures/exercises/330.png" 1751278652 328499 c0425ecfc12a68cb0cd748af55a75a6c ""
+  "main.aux" 1751279208 159 0757ac515ea6a600e39dd079919c5c18 "xelatex"
+  "main.out" 1751279208 93 66e14b9d8fa41e91cc9f2d0bfd6e7a6f "xelatex"
+  "main.tex" 1751276523 3764 6e2fba199c98227560972a5d3288c2d2 ""
   (generated)
-  "Lessons/Advanced/位似.aux"
+  "Exercises/练习3.aux"
   "main.aux"
   "main.log"
   "main.out"

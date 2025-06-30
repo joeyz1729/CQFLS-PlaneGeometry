@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.20)  30 JUN 2025 16:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.20)  30 JUN 2025 18:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -820,7 +820,7 @@ Package thmtools Info: Key `name' (with value `Exercise')
 (thmtools)             Will pass this to every \declaretheorem
 (thmtools)             that uses `style=thmsty' on input line 69.
 \c@exercise=\count372
- (./main.aux (./Lessons/Advanced/位似.aux))
+ (./main.aux (./Exercises/练习3.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
@@ -935,41 +935,87 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 94.
-\openout2 = `Lessons/Advanced/位似.aux'.
+\openout2 = `Exercises/练习3.aux'.
 
- (./Lessons/Advanced/位似.tex
-Package hyperref Info: bookmark level for unknown definition defaults to 0 on input line 4.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+ (./Exercises/练习3.tex
+Package hyperref Info: bookmark level for unknown exercise defaults to 0 on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package hyperref Info: bookmark level for unknown proposition defaults to 0 on input line 11.
-Package hyperref Info: bookmark level for unknown lemma defaults to 0 on input line 23.
-Package hyperref Info: bookmark level for unknown exercise defaults to 0 on input line 29.
-)
+File: figures/exercises/316.png Graphic file (type bmp)
+<figures/exercises/316.png>
+File: figures/exercises/317.png Graphic file (type bmp)
+<figures/exercises/317.png>
+
 
 [1
 
 
-] (./main.aux (./Lessons/Advanced/位似.aux))
+]
+File: figures/exercises/318.png Graphic file (type bmp)
+<figures/exercises/318.png>
+
+Overfull \hbox (20.65518pt too wide) in paragraph at lines 35--36
+[][]\TU/lmr/bx/n/10.53937 Exercise 0.4. []\TU/lmr/m/n/10.53937 (\TU/SimSun(0)/m/n/10.53937 预 选 题 \TU/lmr/m/n/10.53937 2006/G3) \TU/SimSun(0)/m/n/10.53937 设 凸 五 边 形 $\OML/cmm/m/it/10.53937 ABCDE$ \TU/SimSun(0)/m/n/10.53937 满 足 $\U/msa/m/n/10.53937 \\OML/cmm/m/it/10.53937 BAC \OT1/cmr/m/n/10.53937 = \U/msa/m/n/10.53937 \\OML/cmm/m/it/10.53937 CAD \OT1/cmr/m/n/10.53937 = \U/msa/m/n/10.53937 \\OML/cmm/m/it/10.53937 DAE; \U/msa/m/n/10.53937 \\OML/cmm/m/it/10.53937 ABC \OT1/cmr/m/n/10.53937 =
+ []
+
+File: figures/exercises/319.png Graphic file (type bmp)
+<figures/exercises/319.png>
+
+
+[2]
+File: figures/exercises/320.png Graphic file (type bmp)
+<figures/exercises/320.png>
+File: figures/exercises/321.png Graphic file (type bmp)
+<figures/exercises/321.png>
+
+
+[3]
+File: figures/exercises/324.png Graphic file (type bmp)
+<figures/exercises/324.png>
+File: figures/exercises/325.png Graphic file (type bmp)
+<figures/exercises/325.png>
+
+
+[4]
+File: figures/exercises/326.png Graphic file (type bmp)
+<figures/exercises/326.png>
+
+Overfull \hbox (70.91406pt too wide) in paragraph at lines 100--101
+[][]\TU/lmr/bx/n/10.53937 Exercise 0.10. []\TU/lmr/m/n/10.53937 (APMO 2004/2) \TU/SimSun(0)/m/n/10.53937 设 $\OML/cmm/m/it/10.53937 O$ \TU/SimSun(0)/m/n/10.53937 和 $\OML/cmm/m/it/10.53937 H$ \TU/SimSun(0)/m/n/10.53937 分 别 是 锐 角 $\OMS/cmsy/m/n/10.53937 4\OML/cmm/m/it/10.53937 ABC$ \TU/SimSun(0)/m/n/10.53937 的 外 心 和 垂 心。|  证 明：| $\OMS/cmsy/m/n/10.53937 4\OML/cmm/m/it/10.53937 AOH; \OMS/cmsy/m/n/10.53937 4\OML/cmm/m/it/10.53937 BOH; \OMS/cmsy/m/n/10.53937 4\OML/cmm/m/it/10.53937 COH$
+ []
+
+File: figures/exercises/327.png Graphic file (type bmp)
+<figures/exercises/327.png>
+
+
+[5]
+File: figures/exercises/329.png Graphic file (type bmp)
+<figures/exercises/329.png>
+File: figures/exercises/330.png Graphic file (type bmp)
+<figures/exercises/330.png>
+)
+
+[6] (./main.aux (./Exercises/练习3.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DF394D29CE0802F4D404A7239782F7BC;150.
+(rerunfilecheck)             Checksum: 66E14B9D8FA41E91CC9F2D0BFD6E7A6F;93.
  ) 
 Here is how much of TeX's memory you used:
- 28657 strings out of 468527
- 621513 string characters out of 5451377
- 1021899 words of memory out of 5000000
- 56545 multiletter control sequences out of 15000+600000
- 631842 words of font info for 77 fonts, out of 8000000 for 9000
+ 28672 strings out of 468527
+ 620665 string characters out of 5451377
+ 1009822 words of memory out of 5000000
+ 56547 multiletter control sequences out of 15000+600000
+ 631834 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,16n,111p,570b,552s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,5n,111p,570b,348s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (1 page, 15668 bytes).
+Output written on main.xdv (6 pages, 20424 bytes).
