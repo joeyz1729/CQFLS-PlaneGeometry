@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.20)  30 JUN 2025 18:26
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.20)  30 JUN 2025 21:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -999,9 +999,23 @@ File: figures/exercises/329.png Graphic file (type bmp)
 <figures/exercises/329.png>
 File: figures/exercises/330.png Graphic file (type bmp)
 <figures/exercises/330.png>
+
+
+[6]
+File: figures/exercises/441.png Graphic file (type bmp)
+<figures/exercises/441.png>
+File: figures/exercises/443.png Graphic file (type bmp)
+<figures/exercises/443.png>
+
+
+[7]
+File: figures/exercises/444.png Graphic file (type bmp)
+<figures/exercises/444.png>
+File: figures/exercises/445.png Graphic file (type bmp)
+<figures/exercises/445.png>
 )
 
-[6] (./main.aux (./Exercises/练习3.aux))
+[8] (./main.aux (./Exercises/练习3.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -1010,12 +1024,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 66E14B9D8FA41E91CC9F2D0BFD6E7A6F;93.
  ) 
 Here is how much of TeX's memory you used:
- 28672 strings out of 468527
- 620665 string characters out of 5451377
+ 28720 strings out of 468527
+ 622485 string characters out of 5451377
  1009822 words of memory out of 5000000
- 56547 multiletter control sequences out of 15000+600000
+ 56591 multiletter control sequences out of 15000+600000
  631834 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,5n,111p,570b,348s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (6 pages, 20424 bytes).
+Output written on main.xdv (8 pages, 28120 bytes).
