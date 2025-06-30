@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.20)  29 JUN 2025 23:19
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.20)  30 JUN 2025 11:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -820,7 +820,7 @@ Package thmtools Info: Key `name' (with value `Exercise')
 (thmtools)             Will pass this to every \declaretheorem
 (thmtools)             that uses `style=thmsty' on input line 69.
 \c@exercise=\count372
- (./main.aux (./Exercises/练习1.aux))
+ (./main.aux (./Exercises/练习2.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
@@ -935,91 +935,84 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 94.
-\openout2 = `Exercises/练习1.aux'.
+\openout2 = `Exercises/练习2.aux'.
 
- (./Exercises/练习1.tex
-Package hyperref Info: bookmark level for unknown exercise defaults to 0 on input line 4.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (./Exercises/练习2.tex
+Package hyperref Info: bookmark level for unknown exercise defaults to 0 on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-File: figures/exercises/001.png Graphic file (type bmp)
-<figures/exercises/001.png>
-File: figures/exercises/002.png Graphic file (type bmp)
-<figures/exercises/002.png>
+File: figures/exercises/225.png Graphic file (type bmp)
+<figures/exercises/225.png>
+File: figures/exercises/226.png Graphic file (type bmp)
+<figures/exercises/226.png>
 
 
 [1
 
 
 ]
-File: figures/exercises/003.png Graphic file (type bmp)
-<figures/exercises/003.png>
-File: figures/exercises/004.png Graphic file (type bmp)
-<figures/exercises/004.png>
+File: figures/exercises/227.png Graphic file (type bmp)
+<figures/exercises/227.png>
+File: figures/exercises/228.png Graphic file (type bmp)
+<figures/exercises/228.png>
 
 
 [2]
-File: figures/exercises/005.png Graphic file (type bmp)
-<figures/exercises/005.png>
-File: figures/exercises/006.png Graphic file (type bmp)
-<figures/exercises/006.png>
+File: figures/exercises/229.png Graphic file (type bmp)
+<figures/exercises/229.png>
+File: figures/exercises/230.png Graphic file (type bmp)
+<figures/exercises/230.png>
 
 
 [3]
-File: figures/exercises/007.png Graphic file (type bmp)
-<figures/exercises/007.png>
-File: figures/exercises/008.png Graphic file (type bmp)
-<figures/exercises/008.png>
+File: figures/exercises/231.png Graphic file (type bmp)
+<figures/exercises/231.png>
+File: figures/exercises/232.png Graphic file (type bmp)
+<figures/exercises/232.png>
 
 
 [4]
-File: figures/exercises/009.png Graphic file (type bmp)
-<figures/exercises/009.png>
-File: figures/exercises/010.png Graphic file (type bmp)
-<figures/exercises/010.png>
+File: figures/exercises/233.png Graphic file (type bmp)
+<figures/exercises/233.png>
+File: figures/exercises/234.png Graphic file (type bmp)
+<figures/exercises/234.png>
 
 
 [5]
-File: figures/exercises/011.png Graphic file (type bmp)
-<figures/exercises/011.png>
-File: figures/exercises/012.png Graphic file (type bmp)
-<figures/exercises/012.png>
+File: figures/exercises/235.png Graphic file (type bmp)
+<figures/exercises/235.png>
+File: figures/exercises/236.png Graphic file (type bmp)
+<figures/exercises/236.png>
 
 
 [6]
-File: figures/exercises/013.png Graphic file (type bmp)
-<figures/exercises/013.png>
-File: figures/exercises/014.png Graphic file (type bmp)
-<figures/exercises/014.png>
-
-
-[7]
-File: figures/exercises/015.png Graphic file (type bmp)
-<figures/exercises/015.png>
-File: figures/exercises/016.png Graphic file (type bmp)
-<figures/exercises/016.png>
+File: figures/exercises/237.png Graphic file (type bmp)
+<figures/exercises/237.png>
+File: figures/exercises/238.png Graphic file (type bmp)
+<figures/exercises/238.png>
 )
 
-[8] (./main.aux (./Exercises/练习1.aux))
+[7] (./main.aux (./Exercises/练习2.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EA0F735BA6659E785E58FFF50B69D556;77.
+(rerunfilecheck)             Checksum: 09831CA1A2D866866D2331CEED256D22;109.
  ) 
 Here is how much of TeX's memory you used:
- 28753 strings out of 468527
- 624696 string characters out of 5451377
- 1009806 words of memory out of 5000000
- 56624 multiletter control sequences out of 15000+600000
+ 28735 strings out of 468527
+ 624186 string characters out of 5451377
+ 1010839 words of memory out of 5000000
+ 56608 multiletter control sequences out of 15000+600000
  631834 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,5n,111p,570b,348s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (8 pages, 27880 bytes).
+Output written on main.xdv (7 pages, 28912 bytes).
